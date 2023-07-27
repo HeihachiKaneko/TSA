@@ -53,3 +53,51 @@
      projeto para a sua máquina. (Verificando possibilidade de subir para o GitHub ou GitLab)
   </p>
 </div>
+
+<br>
+
+<div>
+  <h2>:wrench:Instalações Necessárias</h2>
+  <br>
+
+  <p>
+    Após baixar ou copiar o projeto para o seu diretório, você deve instalar os seguintes programas:
+
+    * Visual Studio Code (IDE)
+    * Python 3.8.10 (32bits)
+    * Pythonnet 2.5.2
+    * Flask Framework
+    * MySQL
+  </p>
+  <br>
+  <p>
+    É importante que a versão do Python seja de 32bits para ser possível a conexão com a DLL do REP. Caso tente optar por 64 bits terá        problemas durante a execução, pois a DLL também está em 32bits. Caso durante a instalação o Path do Python não tenha sido definido em     sua máquina o processo deverá ser feito manualmente indo em Menu Iniciar > Configurações > Sobre > Variaveis de Ambiente > Definindo      o
+    Path Python conforme o caminho onde ele foi instalado na máquina.
+  </p>
+  <p>
+    Efetuando a instalação do Visual Studio Code (VSCode) e do Python, abra o terminal da própria IDE para instalar o Pythonnet e as         demais dependencias caso ainda não tenha instalado. Utilize os seguintes comandos:
+
+    * pip install pythonnet==2.5.2
+    * pip install flask
+    * pip install python-dotenv
+    * pip install pyodbc
+  </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
