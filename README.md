@@ -57,6 +57,18 @@
 <br>
 
 <div>
+  <h2>:hotsprings:Técnicas e tecnologias utilizadas</h2>
+  <br>
+    
+  <p>
+      
+  </p>
+  
+</div>
+
+<br>
+
+<div>
   <h2>:wrench:Instalações Necessárias</h2>
   <br>
 
@@ -81,7 +93,51 @@
     * pip install flask
     * pip install python-dotenv
     * pip install pyodbc
+  
+    Se por algum acaso o pip estiver com problemas você pode reinstalar a versão do Python para reinstalar o pip junto com ele.
   </p>
+  <p>
+    Para verificar se tudo foi instalado corretamente você pode usar o comando:
+
+    * pip list
+    
+  </p>
+  <p>
+    Você deve ter um resultado como:
+
+    * blinker            1.6.2
+    * click              8.1.6
+    * colorama           0.4.6
+    * Flask              2.3.2
+    * importlib-metadata 6.8.0
+    * pip                23.2.1
+    * Jinja              3.1.2
+    * pycparser          2.21
+    * pyodbc             4.0.39
+    * python-dotenv      1.0.0
+    * pythonnet          2.5.2
+    * setuptools         56.0.0
+    * Werkzeug           2.3.6
+    * zipp               3.16.2
+
+
+    Talvez possa ter alguns pacotes a mais na sua máquina mas estes são suficientes para rodar o projeto.
+  </p>
+  <p>
+    Feito isso, acesse a pasta C:\Projeto_REP_x_HCM\Fontes\Python\app\ por este comando:
+
+    * cd C:\Projeto_REP_x_HCM\Fontes\Python\app\
+
+  </p>
+  <p>
+    Estando na pasta do projeto "\app\" você pode dar o comando flask run para rodar o projeto.
+
+    * flask run
+
+    O Log do sistema deve ser gerado em um arquivo chamado "app-log.log"
+  </p>
+
+  
 </div>
 
 
