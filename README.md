@@ -134,10 +134,12 @@
 
     * flask run
 
-    O Log do sistema deve ser gerado em um arquivo chamado "app-log.log"
+    O Log do sistema deve ser gerado em um arquivo chamado "app-log.log" no mesmo local do arquivo app.py
   </p>
+  <p>
 
-  
+  </p>
+    
 </div>
 
 
