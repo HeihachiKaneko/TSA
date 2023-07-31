@@ -40,7 +40,9 @@
   <h2>:hammer:Funcionalidades</h2>
   <br>
 
-  <p>Escrever tópico</p>
+  <p> 
+    Conectar com diversos dispositivos externos para registro e gerenciamento de controle ponto.
+  </p>
 </div>
 
 <br>
@@ -61,9 +63,16 @@
   <br>
     
   <p>
-      
+    
+    * Python 3.8.10 (32 bits)
+    * Pythonnet 2.5.2
+    * Visual Studio Code (IDE)
+    * Paradigma de orientação a objetos
+    * Flask Framework
+    * Bibliotéca DLL
+    * MySQL
+    
   </p>
-  
 </div>
 
 <br>
@@ -135,9 +144,11 @@
     * flask run
 
     O Log do sistema deve ser gerado em um arquivo chamado "app-log.log" no mesmo local do arquivo app.py
+
   </p>
   <p>
-
+    Se tiver gerado este arquivo quer dizer que ocorreu tudo certo.
+    Boa sorte no desenvolvimento!
   </p>
     
 </div>
