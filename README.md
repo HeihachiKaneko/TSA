@@ -142,8 +142,17 @@
     
 </div>
 
+<br>
+
+<div>
+<h2>:construction_worker: Colaboradores do Projeto</h2>
+<br>
 
 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/38951768?v=4" width=115><br><sub>Matheus Heihachi Kaneko</sub>](https://github.com/HeihachiKaneko) 
+| :---: |
+  
+</div>
 
 
 
